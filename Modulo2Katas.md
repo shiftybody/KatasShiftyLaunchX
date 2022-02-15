@@ -34,7 +34,6 @@ Crea un entorno virtual mediante ``venv``
 
 Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno virtual y se ha aislado del resto de tu máquina.
 
-![image](https://user-images.githubusercontent.com/9124597/153076991-25e857c5-a910-4d54-80b9-47fce1b62147.png)
 
 ## Instalar una biblioteca
 
@@ -81,11 +80,6 @@ Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
 
-Curso Propedútico de Python para Launch X - Innovacción Virtual.
+# Evidencia
 
-Material desarrollado con base en los contenidos de MSLearn y la metáfora de LaunchX, traducción e implementación por: Fernanda Ochoa - Learning Producer de LaunchX.
-
-Redes:
-* GitHub: [FernandaOchoa](https://github.com/FernandaOchoa)
-* Twitter: [@imonsh](https://twitter.com/imonsh)
-* Instagram: [fherz8a](https://www.instagram.com/fherz8a/)
+![Image text](evidence/EvidenceKata2.png)
